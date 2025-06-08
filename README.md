@@ -1,3 +1,5 @@
+# Sản phẩm gốc lấy từ https://github.com/tuanpb99/cf-worker-telegram
+
 # cf-worker-telegram
 [English](#english) | [Tiếng Việt](#tiếng-việt)
 
